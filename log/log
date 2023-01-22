@@ -1,0 +1,7 @@
+total 20
+drwxrwxr-x 2 miro miro 4096 tammi  21 20:28 .
+drwxrwxr-x 5 miro miro 4096 tammi  21 20:27 ..
+-rw-rw-r-- 1 miro miro  284 tammi  21 20:15 access.log
+-rw-rw-r-- 1 miro miro  529 tammi  21 20:15 auth.log
+-rw-rw-r-- 1 miro miro  651 tammi  21 20:15 error.log
+-rw-rw-r-- 1 miro miro    0 tammi  21 20:29 log
